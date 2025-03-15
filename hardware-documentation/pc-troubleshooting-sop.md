@@ -98,14 +98,4 @@ Date: March 15, 2025
 6. **Secure the clips and close the case.**
 7. **Turn on the PC and check if the RAM is detected in BIOS.**
 
----
-
-## **✅ Final Steps**
-- Save this document in your **GitHub repository** under:
-  - `hardware-documentation/pc-troubleshooting-sop.md`
-- Commit with a message like:
-  - **"Added PC Troubleshooting SOP"**
-- Update your GitHub Pages if necessary.
-
-This document serves as a **practical troubleshooting guide** for assembling and maintaining PCs. 
 
